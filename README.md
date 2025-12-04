@@ -18,6 +18,4 @@ Este proyecto fue construido siguiendo el patrón MVC (Modelo-Vista-Controlador)
 * **Frontend:** HTML5 y CSS3.
 * **Control de Versiones:** Git y GitHub.
 
-## 📸 Capturas de Pantalla (Screenshots)
-
 *Desarrollado por Raymundo Jimenez - Ingeniero en Sistemas Computacionales*
